@@ -1,0 +1,4 @@
+﻿  EPP3.cpp
+C:\Users\ALUMNOS\source\repos\EPP3\EPP3.cpp(52,13): warning C4129: 'G': secuencia de escape de carácter no reconocida
+C:\Users\ALUMNOS\source\repos\EPP3\EPP3.cpp(128,13): warning C4129: 'B': secuencia de escape de carácter no reconocida
+  EPP3.vcxproj -> C:\Users\ALUMNOS\source\repos\EPP3\Debug\EPP3.exe
